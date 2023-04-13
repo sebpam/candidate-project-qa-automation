@@ -1,0 +1,34 @@
+{
+  "name": "ZoomCareWebUIdemo",
+  "version": "1.0.0",
+  "description": "Zoom Care Web UI demo",
+  "scripts": {
+    "test": "protractor ./protractor.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/"
+  },
+  "author": "Sebastien Pambu",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-almost": "^1.0.1",
+    "chai-datetime": "^1.8.0",
+    "mocha": "^9.0.1",
+    "mocha-multi-reporters": "^1.5.1",
+    "mochawesome": "^6.2.2",
+    "mochawesome-merge": "^4.2.0",
+    "mochawesome-report-generator": "^5.2.0",
+    "moment": "^2.29.1",
+    "protractor": "^7.0.0",
+    "supertest": "^6.1.6",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/expect": "^24.3.0",
+    "@types/mocha": "^9.0.0",
+    "ts-mocha": "^8.0.0"
+  }
+}
