@@ -1,7 +1,6 @@
-import Schedule from "../pages/Schedule";
+import GoogleMap from "../pages/GoogleMap";
 import { expect } from "chai";
-const schedule = new Schedule();
-import * as moment from "moment";
+const googleMap = new GoogleMap();
 
 class GoogleMapTests {
   // scenario;

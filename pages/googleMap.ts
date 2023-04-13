@@ -1,6 +1,5 @@
 import Base from "./base";
 import { browser, element, by, ExpectedConditions } from "protractor";
-
 class GoogleMap extends Base {
   constructor() {
     super();

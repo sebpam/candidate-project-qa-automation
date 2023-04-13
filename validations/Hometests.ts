@@ -1,7 +1,7 @@
 import Home from "../pages/Home";
 import { expect } from "chai";
 const home = new Home();
-import * as moment from "moment";
+import {Scenario} from "../interfaces/Scenario";
 
 class HomeTests {
   scenario;
