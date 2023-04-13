@@ -19,7 +19,7 @@
 - Installation of VScode https://code.visualstudio.com/ or Git https://git-scm.com/downloads
 
 ### Steps:
-- Clone repository from https://github.com/sebpam/expressJsApiTestsSample
+- Clone repository from https://github.com/sebpam/candidate-project-qa-automation
 - Run the following commands sequentially:
 
 ```
