@@ -15,7 +15,7 @@
 ## Installation
 ### Prerequisites:
 
-- Installation of Nodes js https://nodejs.org/en/ --version14.21.3
+- Installation of Nodes js https://nodejs.org/en/ **VERSION: 14.21.3**
 - Installation of VScode https://code.visualstudio.com/ or Git https://git-scm.com/downloads
 
 ### Steps:
